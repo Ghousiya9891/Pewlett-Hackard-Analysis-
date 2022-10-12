@@ -26,24 +26,24 @@ This would help the company to identify the employees who are about to retire an
 
 - retirement_title table holds **133,376** records of the employee data with their titles. Below snippet shows that few employees have duplicate records as the title of the employyes have been changed in due course of their employment
 
-![Retirement_titles](Resources\Retirement_titles.png)
+![Retirement_titles](Resources/Retirement_titles.png)
 
 - In order to get the unique titles the data in the reitrement tables is further drilled down by filtering the records with active employement dates
 
 - After applying the filtering logic the new data set is stored in **unique_titles** table. Below is the snippet for reference.
 
 - From the below snippet it is evident that there are **72,458** retiree employees who hold the active employment with the unique title.
-![Unique_titles](Resources\Unique_titles)
+![Unique_titles](Resources/Unique_titles)
 
 - In order to get the count of the employees holding each title the data is further grouped by title and is stored in a new table **retiring_titles**
 
 Below is the snippet for reference. The table holds the total count of employees for each title. The data result shows that the employees  holding *Senior Engineer* and *Senior Staff* designation are retiring in large number with a total of *25916* Senior Engineers and *24926* of Senior Staff members, cumilative count to 50,842 
-![Retiring_titles](Resources\Retiring_titles)
+![Retiring_titles](Resources/Retiring_titles)
 
 - The next task is to determine the employees eligible for mentorship program. This can be acieved by creating a **mentorship-eligibility** table that holds the current employees who were born between January 1, 1965 and December 31, 1965
 
 mentorship-elibility data table. From the below snippet the company can provide mentorship program to **1549** employees
-![mentorship-eligbility](Resources\mentorship-eligbility)
+![mentorship-eligbility](Resources/mentorship-eligbility)
 
 ## Summary
 
