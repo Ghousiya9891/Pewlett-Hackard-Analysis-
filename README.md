@@ -37,7 +37,8 @@ This would help the company to identify the employees who are about to retire an
 
 - In order to get the count of the employees holding each title the data is further grouped by title and is stored in a new table **retiring_titles**
 
-Below is the snippet for reference. The table holds the total count of employees for each title. The data result shows that the employees  holding *Senior Engineer* and *Senior Staff* designation are retiring in large number with a total of *25916* Senior Engineers and *24926* of Senior Staff members, cumilative count to 50,842 
+Below is the snippet for reference. The table holds the total count of employees for each title. The data result shows that the employees  holding *Senior Engineer* and *Senior Staff* designation are retiring in large number with a total of *25916* Senior Engineers and *24926* of Senior Staff members, cumilative count to 50,842. 
+
 ![Retiring_titles](Resources/Retiring_titles.png)
 
 - The next task is to determine the employees eligible for mentorship program. This can be acieved by creating a **mentorship-eligibility** table that holds the current employees who were born between January 1, 1965 and December 31, 1965
