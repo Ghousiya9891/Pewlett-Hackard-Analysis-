@@ -58,4 +58,9 @@ From the above analysis following data points can be summarized in order to give
 
 - Company should also collect the information from the retiree employees to determine the interest of their continuity of employment out of their free will. As there might be set of workers who are enthusiastic and skillfull to continue their employment irrespective of their age.
 
+### References
 
+1. Mentorship Eligibility file: [mentorship_eligibilty.csv](https://github.com/Ghousiya9891/Pewlett-Hackard-Analysis-/blob/main/Data/mentorship_eligibilty.csv)
+2. Retirement titles file: [retirement_titles.csv](https://github.com/Ghousiya9891/Pewlett-Hackard-Analysis-/blob/main/Data/retirement_titles.csv)
+3. Retiring titles file: [retiring_titles.csv](https://github.com/Ghousiya9891/Pewlett-Hackard-Analysis-/blob/main/Data/retiring_titles.csv)
+4. Unique titles file: [unique_titles.csv](https://github.com/Ghousiya9891/Pewlett-Hackard-Analysis-/blob/main/Data/unique_titles.csv)
