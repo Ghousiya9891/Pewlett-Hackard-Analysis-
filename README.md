@@ -33,7 +33,7 @@ This would help the company to identify the employees who are about to retire an
 - After applying the filtering logic the new data set is stored in **unique_titles** table. Below is the snippet for reference.
 
 - From the below snippet it is evident that there are **72,458** retiree employees who hold the active employment with the unique title.
-![Unique_titles](Resources/Unique_titles)
+![Unique_titles](Resources/Unique_titles.png)
 
 - In order to get the count of the employees holding each title the data is further grouped by title and is stored in a new table **retiring_titles**
 
@@ -43,7 +43,7 @@ Below is the snippet for reference. The table holds the total count of employees
 - The next task is to determine the employees eligible for mentorship program. This can be acieved by creating a **mentorship-eligibility** table that holds the current employees who were born between January 1, 1965 and December 31, 1965
 
 mentorship-elibility data table. From the below snippet the company can provide mentorship program to **1549** employees
-![mentorship-eligbility](Resources/mentorship-eligbility)
+![mentorship-eligbility](Resources/mentorship-eligbility.png)
 
 ## Summary
 
