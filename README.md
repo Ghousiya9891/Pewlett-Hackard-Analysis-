@@ -2,12 +2,12 @@
 
 ## Purpose and overview
 
-The pupose of the analysis is help the client Pewlett Hackard to identify the Employee data set to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program 
+The pupose of the analysis is help the client Pewlett Hackard to identify the Employee data set for number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program 
 
 This would help the company to identify the employees who are about to retire and provide them with definate retirement package 
 
 - Tools and Resources used
-    1. Six Employee data sheets in CSV files.
+    1. Six Employee data sheets in CSV files
     2. PostgreSQL database
 
 ## Analysis and Results
